@@ -1,6 +1,6 @@
 /node_modules/
 /commonjs/
-/esm/
+/esm/__tests__/
 /standalone/
 /build
 /storybook-static
